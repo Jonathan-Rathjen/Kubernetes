@@ -1,0 +1,13 @@
+favorite:
+  drink: coffee
+  food: sushi
+
+fruits:
+  - apple
+  - banana
+  - grape
+
+vegetables:
+  tomato: red
+  potato: yellow
+  mushroom: brown
